@@ -1,1 +1,3 @@
 smol salny
+
+localhost:2222
